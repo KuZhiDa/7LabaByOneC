@@ -16098,6 +16098,7 @@
 		<Metadata name="Catalog.ПричиныУвольненияПФР.Predefined" id="af6ba447-e25b-4502-b7bd-6d6026f6c88c.1c" configVersion="e1dce0ae177c7344b053893c6847e4d800000000"/>
 		<Metadata name="Catalog.ПричиныУвольненияПФР.Template.ПричиныУвольненияПФР" id="63ed727e-8f85-4ba5-9b86-71d4fa3c2e9c" configVersion="f63faf4038f83b47903d6b4c881a2d9d00000000"/>
 		<Metadata name="Catalog.ПричиныУвольненияПФР.Template.ПричиныУвольненияПФР.Template" id="63ed727e-8f85-4ba5-9b86-71d4fa3c2e9c.0" configVersion="6cd6ab07147d0249aaa75f7cf6ac646000000000"/>
+		<Metadata name="Catalog.ПричиныУценки" id="64e95bbf-b625-4128-9680-893c199a1b34" configVersion="94dba5f3c10c8044b801c75e5bab044c00000000"/>
 		<Metadata name="Catalog.ПрограммыЭлектроннойПодписиИШифрования" id="aa29e1be-4e99-4136-8dc1-0124908979ad" configVersion="fa0afc9b52a37845bd03d238ed32b28700000000">
 			<Metadata name="Catalog.ПрограммыЭлектроннойПодписиИШифрования.Attribute.ИмяПрограммы" id="0d76799d-7fc7-446b-88fb-dca839de00a5"/>
 			<Metadata name="Catalog.ПрограммыЭлектроннойПодписиИШифрования.Attribute.РежимИспользования" id="67e8b7dc-e0d7-44a9-81d0-6b31bb318145"/>
@@ -35572,7 +35573,7 @@
 		<Metadata name="CommonTemplate.ШаблоныСообщенийОбОшибкахАЛКО.Template" id="e59dec7c-9718-11e9-bd8c-60a44ccf9066.0" configVersion="561f88cbf3134d45a9215d5d7d04b43900000000"/>
 		<Metadata name="CommonTemplate.ЭталонИС" id="97197400-b866-48fa-a789-a2d0fe2906a0" configVersion="d1a4ead1dc8ee943a5f2f9135877524000000000"/>
 		<Metadata name="CommonTemplate.ЭталонИС.Template" id="97197400-b866-48fa-a789-a2d0fe2906a0.0" configVersion="603cb7a7b43685428ae52df6e56b407800000000"/>
-		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная" id="de29c81d-d880-419b-8f65-cc49813f0e9a" configVersion="9dbbe6563b66aa4a9752f7585e8c742100000000"/>
+		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная" id="de29c81d-d880-419b-8f65-cc49813f0e9a" configVersion="abbe516b692b2b40b1472d839083f2ba00000000"/>
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.ClientApplicationInterface" id="dc6d7646-10e5-41e7-9723-e450f206df84.b" configVersion="f4dcdcf233cbc648b08456f48427399800000000"/>
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.CommandInterface" id="dc6d7646-10e5-41e7-9723-e450f206df84.a" configVersion="82dd6692a1557042b3c11f64b3ec7c5e00000000"/>
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.ExternalConnectionModule" id="dc6d7646-10e5-41e7-9723-e450f206df84.5" configVersion="8704e7c23b353543800346d2d343b62200000000"/>
@@ -35584,7 +35585,7 @@
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.ManagedApplicationModule" id="dc6d7646-10e5-41e7-9723-e450f206df84.6" configVersion="7be8186e49ec90478161ed3fdbe6aa4700000000"/>
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.MobileClientSignature" id="dc6d7646-10e5-41e7-9723-e450f206df84.10" configVersion="c587bbfad9c3054b8ff169ae01785fe700000000"/>
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.OrdinaryApplicationModule" id="dc6d7646-10e5-41e7-9723-e450f206df84.0" configVersion="237744ef6469ec41ad786fa6fa57bafc00000000"/>
-		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.ParentConfigurations" id="dc6d7646-10e5-41e7-9723-e450f206df84.4" configVersion="8099d8a9fa39ef44b87ea148153cf49d00000000"/>
+		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.ParentConfigurations" id="dc6d7646-10e5-41e7-9723-e450f206df84.4" configVersion="edb38934b52a20459bab306a2ef21c4b00000000"/>
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.SessionModule" id="dc6d7646-10e5-41e7-9723-e450f206df84.7" configVersion="239bd3d14aef7841ae0b513f88ac88b500000000"/>
 		<Metadata name="Configuration.УправлениеНебольшойФирмойУчебная.Splash" id="dc6d7646-10e5-41e7-9723-e450f206df84.2" configVersion="a403d0642165e844a0e53cad6e1e576700000000"/>
 		<Metadata name="Constant.АвтоПодборНомеровГТД" id="38259fad-b8f3-4472-9593-45ecdacb52f3" configVersion="734560ceab57bf42965c7a2b52528f7400000000"/>
@@ -103071,7 +103072,7 @@
 		<Metadata name="Subsystem.ПодсистемыРегламентированногоУчета" id="8363232c-9162-4356-b78a-8577c44a3f13" configVersion="f2b4228f32b29a4aa8149ef4e9879c3a00000000"/>
 		<Metadata name="Subsystem.ПодсистемыРегламентированногоУчета.Subsystem.ПрослеживаемостьТоваров" id="bcc407e3-4d0a-4c88-9d81-17a745d27a08" configVersion="1ac726ecb4c64841bc546c48bb17ad3e00000000"/>
 		<Metadata name="Subsystem.Помощь" id="f9609753-11b2-4d91-bfa3-98f71929dedd" configVersion="40e6f0161f259c4f94657dec6c5ecb0200000000"/>
-		<Metadata name="Subsystem.Продажи" id="ea55e8ba-1a04-4e56-ad57-d6253674464f" configVersion="87743f8a0b94c646ad37d1f5ee189d7200000000"/>
+		<Metadata name="Subsystem.Продажи" id="ea55e8ba-1a04-4e56-ad57-d6253674464f" configVersion="c0f06485ffc7fb4b9406384a8147c16b00000000"/>
 		<Metadata name="Subsystem.Продажи.CommandInterface" id="ea55e8ba-1a04-4e56-ad57-d6253674464f.1" configVersion="f638a9b65c0c434cbb839894e62ed14200000000"/>
 		<Metadata name="Subsystem.Продажи.Subsystem.Аналитика" id="169f6e86-843f-4aeb-8046-7cab4ff68bca" configVersion="1283113e58cbcd408d9aea260aab12c700000000"/>
 		<Metadata name="Subsystem.Продажи.Subsystem.Аналитика.CommandInterface" id="169f6e86-843f-4aeb-8046-7cab4ff68bca.1" configVersion="6a8d0f78603b0042a65107dcc083938c00000000"/>

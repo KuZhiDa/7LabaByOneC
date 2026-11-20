@@ -54,6 +54,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.СостоянияЗаказовПокупателей</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ВидыЗаказовПокупателей</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ШаблоныГенерацииШтрихкодов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ПричиныУценки</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects>
