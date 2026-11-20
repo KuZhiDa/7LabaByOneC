@@ -54,7 +54,11 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.СостоянияЗаказовПокупателей</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ВидыЗаказовПокупателей</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ШаблоныГенерацииШтрихкодов</xr:Item>
+<<<<<<< HEAD
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ПричиныУценки</xr:Item>
+=======
+				<xr:Item xsi:type="xr:MDObjectRef">64e95bbf-b625-4128-9680-893c199a1b34</xr:Item>
+>>>>>>> 87c76bcb514f152d74c65c98183020a4349d7063
 			</Content>
 		</Properties>
 		<ChildObjects>

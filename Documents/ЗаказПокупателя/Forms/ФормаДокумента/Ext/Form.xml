@@ -606,6 +606,12 @@
 								</InputField>
 							</ChildItems>
 						</UsualGroup>
+						<InputField name="СостояниеДоставки" id="3310">
+							<DataPath>СостояниеДоставки</DataPath>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="СостояниеДоставкиКонтекстноеМеню" id="3311"/>
+							<ExtendedTooltip name="СостояниеДоставкиРасширеннаяПодсказка" id="3312"/>
+						</InputField>
 						<InputField name="ВидОперации" id="1629" DisplayImportance="VeryHigh">
 							<DataPath>Объект.ВидОперации</DataPath>
 							<SkipOnInput>true</SkipOnInput>
@@ -9579,6 +9585,21 @@
 			</Title>
 			<Type>
 				<v8:Type>cfg:CatalogRef.Лиды</v8:Type>
+			</Type>
+		</Attribute>
+		<Attribute name="СостояниеДоставки" id="158">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Состояние доставки</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>30</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
 			</Type>
 		</Attribute>
 	</Attributes>
